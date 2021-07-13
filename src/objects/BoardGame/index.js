@@ -12,4 +12,6 @@ function BoardGame(amountCards) {
     `
 }
 
+//test
+
 export default BoardGame;
